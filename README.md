@@ -1,5 +1,8 @@
 # key-S
 
+[![Python](https://img.shields.io/badge/python-3.6+-green.svg?style=plastic)](https://nodejs.org/en/)
+
+
 中文简介: 在任何编辑器中，它都能够让你通过ECS键 配合 H、J、K、L控制上下左右。
 
 English Description: In the editor, it allows you to control up, down, left and right through h, J, K, L. 
