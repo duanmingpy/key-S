@@ -1,3 +1,9 @@
+"""
+author: DuanMing
+email: dmneil7o@icloud.com
+wechat: LivPzs
+"""
+
 from pynput.keyboard import Key, Controller, Listener
 
 
